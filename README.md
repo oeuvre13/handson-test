@@ -1,4 +1,4 @@
-# spring-boot-rest-api-unit-test
+# spring-boot-rest-api-unit-tests
 
 - Spring boot REST APIs
 - Spring boot HATEOAS REST APIs
